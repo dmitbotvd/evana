@@ -37,7 +37,7 @@ body {
     background-color: #f5f9fd;
 }
 .section--bg-2 {
-    background-image: url("/img/bg_2_02.png");
+    background-image: url("../img/bg_2_02.png");
     background-size: cover;
     background-position: top;
 }
@@ -48,7 +48,7 @@ h1, h2, h3, h4, h5, h6, p {
 /*header*/
 .header {
     padding-top: 50px;
-    background-image: url("/img/bg.png");
+    background-image: url("../img/bg.png");
     background-size: cover;
 }
 .header__main {
